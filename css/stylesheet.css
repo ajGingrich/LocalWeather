@@ -1,0 +1,43 @@
+/** {
+    border: 0.1px dashed black;
+}*/
+
+body {
+    background-color: mintcream;
+    text-align: center;
+}
+#title {
+    font-size: 24px;
+    margin-top: 20px;
+}
+#center {
+    height: 400px;
+    position: relative;
+    margin-top: 40px;
+    border-radius: 20px;
+}
+p {
+    padding: 5px;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    margin-top: 15px;
+}
+#btn-fahrenheit{
+    float: right;
+    vertical-align: bottom;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+#btn-celsius {
+    float: left;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+#icon img {
+    height: 35%;
+    width: 35%;
+}
+
